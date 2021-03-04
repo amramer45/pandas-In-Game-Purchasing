@@ -23,7 +23,7 @@ The final report included each of the following:
 * Total Number of Purchases
 * Total Revenue
 
-![Purchasing Total](./Images/purchasing_analysis.png)
+![Purchasing Total](Images/purchase_analysis.png)
 
 ### Gender Demographics
 
